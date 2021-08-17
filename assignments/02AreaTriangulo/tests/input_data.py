@@ -19,4 +19,4 @@ input_values = [
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa la fórmula del área del triángulo."
     )
-]
+        ]
